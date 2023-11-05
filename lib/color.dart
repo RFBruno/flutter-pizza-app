@@ -22,6 +22,6 @@ Gradient gradientFullPrimary = const LinearGradient(
   end: Alignment.bottomCenter,
   colors: <Color>[
     primary,
-    primary,
+    primaryLight,
   ],
 );
